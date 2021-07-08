@@ -7,13 +7,13 @@
 
 # Site Settings
 locale                   : "en-US"
-title                    : "Pablo E. Warnes"
+title                    : "Home"
 title_separator          : "-"
-name                     : &name "Pablo E. Warnes"
+name                     : &name "Ziwei Ye"
 description              : &description "personal description"
-url                      : https://pewarnes.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
+url                      : https://ziweiye.github.io # the base hostname & protocol for your site e.g. "https://mmistakes.github.io"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
-repository               : "pewarnes/pewarnes.github.io"
+repository               : "ziweiye/ziweiye.github.io"
 teaser                   :  # filename of teaser fallback teaser image placed in /images/, .e.g. "500x300.png"
 breadcrumbs              : false # true, false (default)
 words_per_minute         : 160
@@ -82,13 +82,13 @@ analytics:
 author:
   name             : "Pablo Ernesto Warnes"
   avatar           : "jm_photo_small.jpg"
-  bio              : "PhD Candidate, Columbia University"
+  bio              : "PhD Candidate, Michigan State University"
   location         : 
   employer         :
   pubmed           : 
-  googlescholar    : "https://scholar.google.com.ar/citations?hl=en&user=9zq2cz8AAAAJ&scilu=&scisig=AMD79ooAAAAAX0RxqFq8VWdt2qGbny1st5uVTIU4xf8c&gmla=AJsN-F6AWFP9fSFQN7Lnt5dt0SE07YJbDRUf6tFJwzfclod9epVJCQRDRdRVC_V8-ejsIKQzKncLdz8xobXCs9lPfaxGFXWQgrld6LJrTYqG580SuHVdpRE&sciund=10492080156376010089"
-  email            : "pew2116@columbia.edu"
-  researchgate     :
+  googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=NoPvqg8AAAAJ"
+  email            : "yeziwei@msu.edu"
+  researchgate     : "https://www.researchgate.net/profile/Ziwei-Ye-8"
   uri              :
   bitbucket        :
   codepen          :
@@ -102,7 +102,7 @@ author:
   instagram        :
   impactstory      :
   lastfm           :
-  linkedin         : "pwarnes"
+  linkedin         : 
   orcid            :
   pinterest        :
   soundcloud       :
