@@ -1,11 +1,13 @@
 ---
 layout: archive
+title: "Research"
 permalink: /research/
 author_profile: true
 ---
 
  
-## Job Market Paper: [Drought-tolerant Technology: A Mixed Blessing.](/files/warnes_pablo_jmp.pdf)
+# Job Market Paper
+## [Drought-tolerant Technology: A Mixed Blessing.](/files/warnes_pablo_jmp.pdf)
 ### Abstract
 TBD.
 
