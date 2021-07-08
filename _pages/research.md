@@ -7,7 +7,8 @@ author_profile: true
 
  
 # Job Market Paper
-## [Drought-tolerant Technology: A Mixed Blessing.](/files/warnes_pablo_jmp.pdf)
+## Drought-tolerant Technology: A Mixed Blessing.
+Draft coming soon.
 ### Abstract
 TBD.
 
