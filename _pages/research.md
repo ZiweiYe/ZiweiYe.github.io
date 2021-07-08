@@ -1,11 +1,11 @@
 ---
 layout: archive
-title: "Research"
 permalink: /research/
 author_profile: true
 ---
 # Publications
-- [Environmental and economic concerns surrounding restrictions on glyphosate use in corn](https://www.pnas.org/content/118/18/e2017470118) Ziwei Ye, Feicia Wu, and David A. Hennessy.2020. **Proceedings of the National Academy of Sciences**, 118(18). 
+[Environmental and economic concerns surrounding restrictions on glyphosate use in corn](https://www.pnas.org/content/118/18/e2017470118) Ziwei Ye, Feicia Wu, and David A. Hennessy.2020. **Proceedings of the National Academy of Sciences**, 118(18). 
+
 
 # Job Market Paper
 [<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](/files/warnes_pablo_jmp.pdf)
