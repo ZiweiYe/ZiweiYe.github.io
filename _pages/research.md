@@ -4,8 +4,6 @@ title: "Research"
 permalink: /research/
 author_profile: true
 ---
-
- 
 # Job Market Paper
 ## Drought-tolerant Technology: A Mixed Blessing.
 Draft coming soon.
