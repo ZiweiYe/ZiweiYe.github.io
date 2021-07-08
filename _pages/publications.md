@@ -19,5 +19,5 @@ Codes and data are available [here](https://github.com/resdata/glyphosate_analys
 
 ## Media news
 [Economic impacts of glyphosate regulation](https://www.eurekalert.org/pub_releases/2021-04/potn-eio042121.php)
-*correction: should be "glyphosate tax" instead of "carbon tax"
+*correction: should be "glyphosate tax" instead of "carbon tax"*
 
