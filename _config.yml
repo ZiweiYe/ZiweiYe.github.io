@@ -82,9 +82,9 @@ analytics:
 author:
   name             : "Ziwei Ye (叶紫薇)"
   avatar           : "jm_photo_small.jpg"
-  bio              : "PhD Candidate, Michigan State University"
+  bio              : "PhD Candidate" 
   location         : 
-  employer         :
+  employer         : "Michigan State University"
   pubmed           : 
   googlescholar    : "https://scholar.google.com/citations?hl=zh-CN&user=NoPvqg8AAAAJ"
   email            : "yeziwei@msu.edu"
