@@ -5,29 +5,18 @@ author_profile: true
 ---
 
 # Job Market Paper
-[<font size="5">Transport Infrastructure Improvements and Spatial Sorting: Evidence from Buenos Aires</font> ](/files/warnes_pablo_jmp.pdf)
-
-Awarded a research grant from the CAF - Development Bank of Latin America ($15,000).
-
-*How do improvements in the urban transport infrastructure affect the spatial sorting of
- residents with different levels of income and education within a city? What are the welfare
- effects of improving urban transit once we take into account these patterns of spatial sorting?
- In this paper, I study the effects of the construction of a bus rapid transit system (BRT) on
- the spatial reorganization of residents within the city of Buenos Aires, Argentina. To do so,
- I leverage an individual level panel data set of more than two million residents with which
- I can describe intra-city migration patterns. I first find reduced form evidence that the
- construction of the BRT increased the spatial segregation between high and low-skilled residents
- within the city. I then develop a dynamic quantitative spatial equilibrium model of a city with
- heterogeneous workers that allows me to quantify the welfare effects of this BRT system while
- taking into account these spatial sorting patterns. With this quantitative framework, I can measure
- the average welfare gains for residents that were living near the BRT lines before these were built.
- I find that welfare gains were very similar between high- and low-skilled workers living in the same
- locations, but very different within skill levels across locations. Residents living near a BRT line
- in neighborhoods with the lowest share of high-skilled residents saw welfare gains close to 1% on average,
- while residents living near a BRT line in neighborhoods with the highest high-skilled share saw welfare
- gains around 0.5% on average.*
+## [Drought-tolerant Technology: A Mixed Blessing.](/files/warnes_pablo_jmp.pdf)
+### Abstract
+TBD.
 
 # Work in Progress
-- *Welfare and Political Consequences of Public Investment in Amenities. Evidence from Spatial Data in Argentina* (with Teresa Esteban-Casanelles), 2020.
-- *The Effects of Advertising On Product Appeal: A Spatial Discontinuity Approach*, 2019.
+**Bt Corn and Aflatoxin Contamination: A welfare Assessment under Climate Change**. As part of a USDA grant "Aflatoxin Reduced By Bt Corn? Examining Crop Insurance Claims for Real World Impacts of Technologies for Food Safety" ($478,000). **Ziwei Ye**, David A. Hennessy, and Felicia Wu.    
+
+**Adoption of transgenic, insect-protected corn reduces aflatoxin- and drought-related insurance claims**. Wei-Ting Chiang, **Ziwei Ye**, David A. Hennessy, Gary P. Munkvold, and Felicia Wu.(submitted to **Nature Biotechnology**.)    
+
+**Vip-Containing Bt Corn and Irrigation Reduce Aflatoxin Risk in Southern US Corn Fields: An Analysis of Crop Insurance Claims**. Wei-Ting Chiang, David A. Hennessy, Jina Yu, **Ziwei Ye**, and Felicia Wu. (submitted to **Environmental Science & Technology**.)   
+
+**The impact of land market openning in Ukraine.** (with Klaus W. Deininger, Donald F. Larson, Oleg Nivievskyi, and Anna Harus)  
+
+**The Hedonic Price of Antimicrobial Resistance Risk: Evidence From the New VFD Rule.** **Ziwei Ye**, April Athnos.
 
