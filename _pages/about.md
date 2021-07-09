@@ -18,7 +18,7 @@ Fields of expertise
 Agricultural economics, Environmental economics, Policy analysis    
 *Topics of interest: Climate change, Technology, Sustainability*
 
-## News!
+News!
 ======
 I will be presenting later this year at
 the AAEA conference (1st August - 3rd August, 2021)(poster presentation)
