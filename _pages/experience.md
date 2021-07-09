@@ -18,5 +18,4 @@ author_profile: true
  
 # Teaching experience
   **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
-  This lecture introduced the Equilibrium Displacement Model with a real-world example to illus-
-  trate the modeling and calibration process.
+  This lecture introduced the Equilibrium Displacement Model with a real-world example to illustrate the modeling and calibration process.
