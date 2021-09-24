@@ -1,6 +1,6 @@
 ---
 permalink: /
-title: "Welcome to my personal website"
+title: "Welcome to my personal website!"
 excerpt: "About me"
 author_profile: true
 redirect_from: 
@@ -9,11 +9,11 @@ redirect_from:
 ---
 
 
-Welcome! I am an applied economist working broadly at the intersection of agricultural production, environment and human health, with a particular emphasis on biotechnology, climate change, and sustainability issues. My past work has comprehensively evaluated the policy consequences of restricting glyphosate (a dominant herbicide) use in corn production by weighing its environmental and human health gain against economic loss in a monetary framework. My current research focuses on (1) the adaptive value of drought-tolerance technology, and (2) the welfare evaluation of Bt corn through yield effect and aflatoxin control, in the context of climate change.   
+I am a PhD candidate in Department of Agricultural, Food, and Resource Economics (AFRE) at Michigan State University (MSU). I am committed to committed to a career in the broad area of policy analysis and prescription at the intersection between human behavior and biological risks. René Dubos, a microbiologist, environmentalist and prescient advocate of stewardship in biological control, once write “Nature always strikes back. It takes all the running we can do to remain in the same place.” As the confluence of biotechnology and information technology generates ever larger volumes of production information, the running in question often resolves to interpreting and using available information. How humans should use information to manage the biological commons in livestock and crop agriculture given nature’s redoubtable capacity to fight back is the underlying general theme in my Ph.D. dissertation.
 
-Prior to enrolling at MSU, I received a Bachelor of Science degree in Agricultural Economics and Management from Zhejiang University in 2017. Since 2020, I have also worked as a consultant in the Development Research Group, the World Bank, conducting agricultural policy analysis in developing countries. 
+Prior to enrolling at MSU, I received a BA degress in Economics and a MS degree in Finance from Peking University in 2015 and 2017. I am expected to graduate in 2022.
 
 Fields of expertise 
 ======
-Agricultural economics, Environmental economics, Policy analysis    
-*Topics of interest: Climate change, Technology, Sustainability*
+Agricultural Production and Policy, Environmental Economics, Biological Economics, Behavioral Economics    
+*Topics of interest: Biological resistance, production decisions under uncertainty, information learning*
