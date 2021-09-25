@@ -12,7 +12,7 @@ AERE Summer Conference, “Will Tests Lead to More Informed Antibiotics Use?  An
 AERE Summer Conference, “Assessing the Efficiency of Veterinary Feed Directive in Reducing Antibiotics Use” (with H. Feng*, D.A. Hennessy).
 
 AAEA Annual Meeting “Bt Corn, Insecticide Use, and Resistance Time Trend in the US” (with H. Feng, D.A. Hennessy).
-# 2020
+## 2020
 International Society for Economics and Social Sciences of Animal Health, “Assessing the Efficiency of Veterinary Feed Directive in Reducing Food Animal Antibiotics use.” (with H. Feng,  D.A. Hennessy).
 
 6th World One HealthCongress, “Do large dairy farms use more antibiotics?”  (with H. Feng, D.A. Hennessy).
