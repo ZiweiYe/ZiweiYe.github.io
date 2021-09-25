@@ -1,13 +1,13 @@
 # main links links
 main:
-  - title: "Publications"
-    url: /publications/ 
-    
   - title: "Research"
-    url: /research/
-
-  - title: "Experience"
-    url: /experience/ 
+    url: /research/ 
     
+  - title: "Conference"
+    url: /publications/ 
+
   - title: "CV"
-    url: /cv/
+    url: /cv/ 
+    
+  - title: "Others"
+    url: /experience/
