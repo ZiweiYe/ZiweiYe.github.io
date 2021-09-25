@@ -7,7 +7,7 @@ author_profile: true
 
 
 ## 2021 
-AERE Summer Conference, “Will Tests Lead to More Informed Antibiotics Use?  An Application in Veterinarian Diagnostic Deci-sions” (with H. Feng, D.A. Hennessy).
+AERE Summer Conference, “Will Tests Lead to More Informed Antibiotics Use?  An Application in Veterinarian Diagnostic Decisions” (with H. Feng, D.A. Hennessy).
 
 AERE Summer Conference, “Assessing the Efficiency of Veterinary Feed Directive in Reducing Antibiotics Use” (with H. Feng*, D.A. Hennessy).
 
