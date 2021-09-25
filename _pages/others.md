@@ -16,8 +16,8 @@ author_profile: true
   **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
   This lecture introduces Bayesian Learning Model and Deviations from Standard Bayesian Updating with a real-world example of clinical diagnosis. 
 ## Field Work
-*Interviewer* **Investigation on the Specialized Agricultural Cooperatives in Beijing** School of Economics, Peking University (Jun 2016)
+*Interviewer* in **Investigation on the Specialized Agricultural Cooperatives in Beijing**, School of Economics, Peking University (Jun 2016)
 
-*Interviewer* **China Health and Retirement Longitudinal Study(CHARLS)**. National School of Development, Peking University (Jun. 2013-Aug. 2013)
+*Interviewer* in **China Health and Retirement Longitudinal Study(CHARLS)**, National School of Development, Peking University (Jun. 2013-Aug. 2013)
 ## Award and Fellowship
 Top Prize Winner of **the 21st Challenge Cup of Peking University**,*Land Circulation and Utilization inRural Area of Hubei and Hebei Provinces* (2013)
