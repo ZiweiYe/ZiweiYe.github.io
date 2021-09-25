@@ -5,19 +5,14 @@ permalink: /research/
 author_profile: true
 ---
 # Job Market Paper
-## Drought-tolerant Technology: A Mixed Blessing.
+## Will tests lead to more informed antibiotics use? An application in veterinarian diagnostic decisions.
 Draft coming soon.
 ### Abstract
 TBD.
 
+# Working paper
+**Economics of the Veterinary Feed Directive**. **Yanan Jia**, Hongli Feng, and David A. Hennessy.
 # Work in Progress
-**Bt Corn and Aflatoxin Contamination: A welfare Assessment under Climate Change**. As part of a USDA grant "Aflatoxin Reduced By Bt Corn? Examining Crop Insurance Claims for Real World Impacts of Technologies for Food Safety" ($478,000). **Ziwei Ye**, David A. Hennessy, and Felicia Wu.    
+**Bt corn, insecticide use, and resistance time trends in the United States.** **Yanan Jia**, Hongli Feng, and David A. Hennessy.
 
-**Adoption of transgenic, insect-protected corn reduces aflatoxin- and drought-related insurance claims**. Wei-Ting Chiang, **Ziwei Ye**, David A. Hennessy, Gary P. Munkvold, and Felicia Wu.(submitted to *Nature Biotechnology*.)    
-
-**Vip-Containing Bt Corn and Irrigation Reduce Aflatoxin Risk in Southern US Corn Fields: An Analysis of Crop Insurance Claims**. Wei-Ting Chiang, David A. Hennessy, Jina Yu, **Ziwei Ye**, and Felicia Wu. (submitted to *Environmental Science & Technology*.)   
-
-**The impact of land market openning in Ukraine.** (with Klaus W. Deininger, Donald F. Larson, Oleg Nivievskyi, and Anna Harus)  
-
-**The Hedonic Price of Antimicrobial Resistance Risk: Evidence From the New VFD Rule.** **Ziwei Ye**, April Athnos.
-
+**Do large dairy farms use more antibiotics?** **Yanan Jia**, Hongli Feng, and David A. Hennessy.
