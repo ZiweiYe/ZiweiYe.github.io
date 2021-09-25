@@ -11,3 +11,4 @@ author_profile: true
 # Teaching experience
   **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
   This lecture introduces Bayesian Learning Model and Deviations from Standard Bayesian Updating with a real-world example of clinical diagnosis. 
+# Award and fellowship
