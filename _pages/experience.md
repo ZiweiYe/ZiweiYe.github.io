@@ -1,7 +1,7 @@
 ---
 layout: archive
-title: "Experience"
-permalink: /experience/
+title: ""
+permalink: /others/
 author_profile: true
 ---
 # Work experience      
