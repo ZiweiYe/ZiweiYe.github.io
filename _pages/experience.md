@@ -4,7 +4,7 @@ title: ""
 permalink: /others/
 author_profile: true
 ---
-# Work experience      
+# Research experience      
   **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-present).
  
  
