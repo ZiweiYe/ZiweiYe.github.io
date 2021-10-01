@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Work in Progress
-**1. Drought-tolerant Technology: A Mixed Blessing.** **Ziwei Ye**, David A. Hennessy, Felicia Wu
+**1. Drought-tolerant Technology: A Mixed Blessing.** **Ziwei Ye**, David A. Hennessy, Felicia Wu.    
 [Download the AAEA poster here](http://ziweiye.github.io/files/full_v2.pdf)
 
 **2. Adoption of transgenic, insect-protected corn reduces aflatoxin- and drought-related insurance claims**. Wei-Ting Chiang, **Ziwei Ye**, David A. Hennessy, Gary P. Munkvold, and Felicia Wu. (submitted to *Nature Biotechnology*.)   
