@@ -22,7 +22,7 @@ author_profile: true
   **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-present).
  
  
- 
+#
  
  
 # Teaching experience
