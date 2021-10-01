@@ -14,9 +14,15 @@ author_profile: true
      &nbsp;&nbsp;-short-term program: The Hong Kong Polytechnic University, China      
 
 
+
+
+
 # Work experience
   **World Bank**, Development Research Group. *Consultant* (2020-present).      
   **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-present).
+ 
+ 
+ 
  
  
 # Teaching experience
