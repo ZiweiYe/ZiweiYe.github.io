@@ -18,7 +18,7 @@ author_profile: true
 
 **Should Glyphosate be Taxed? Herbicide Substitution and Spill-over Effects in US Corn Production.”** Graduate Research Symposium, Michigan State University, East Lansing, USA (2020)
 
-**"Testing for substitutability: Glyphosate and other herbicides in U.S. Maize."** US-China Young Professional Forum, Purdue University, West Lafayette, USA (2019)
+**Testing for substitutability: Glyphosate and other herbicides in U.S. Maize.** US-China Young Professional Forum, Purdue University, West Lafayette, USA (2019)
 
 **Testing for substitutability: Glyphosate and Other Herbicides in U.S. Maize.** International Food and Agribusiness Management Association (IFAMA) Conference, Hangzhou, China (2019)
 
