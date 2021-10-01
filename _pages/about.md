@@ -20,5 +20,4 @@ Agricultural economics, Environmental economics, Policy analysis
 
 News!
 ======
-I will be presenting later this year at
-the AAEA conference (1st August - 3rd August, 2021)(poster presentation)
+I will be on the ASSA job market this year!
