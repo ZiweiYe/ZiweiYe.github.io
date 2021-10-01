@@ -15,7 +15,7 @@ Prior to enrolling at MSU, I received a Bachelor of Science degree in Agricultur
 
 Fields of expertise 
 ======
-Agricultural economics, Environmental economics, Policy analysis    
+Production economics, Environmental and resource economics, Policy analysis    
 *Topics of interest: Climate change, Technology, Sustainability*
 
 News!
