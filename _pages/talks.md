@@ -16,7 +16,7 @@ author_profile: true
 
 **Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** Agricultural \\& Applied Economics Association (AAEA) Annual Meeting, Kansas City, USA (2020)
 
-**Should Glyphosate be Taxed? Herbicide Substitution and Spill-over Effects in US Corn Production.”** Graduate Research Symposium, Michigan State University, East Lansing, USA (2020)
+**Should Glyphosate be Taxed? Herbicide Substitution and Spill-over Effects in US Corn Production.** Graduate Research Symposium, Michigan State University, East Lansing, USA (2020)
 
 **Testing for substitutability: Glyphosate and other herbicides in U.S. Maize.** US-China Young Professional Forum, Purdue University, West Lafayette, USA (2019)
 
