@@ -14,7 +14,7 @@ author_profile: true
 
 **Crop Yield and Quality: Can Biotechnology Override Adverse Climate Effects?** Brownbag Seminar, Michigan State University, East Lansing, USA (2021)
 
-**Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** Agricultural \\& Applied Economics Association (AAEA) Annual Meeting, Kansas City, USA (2020)
+**Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** Agricultural \& Applied Economics Association (AAEA) Annual Meeting, Kansas City, USA (2020)
 
 **Should Glyphosate be Taxed? Herbicide Substitution and Spill-over Effects in US Corn Production.** Graduate Research Symposium, Michigan State University, East Lansing, USA (2020)
 
