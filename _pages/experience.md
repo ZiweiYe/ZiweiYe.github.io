@@ -17,7 +17,7 @@ author_profile: true
 &nbsp;
 
 
-# Work experience
+# Work 
   **World Bank**, Development Research Group. *Consultant* (2020-present).      
   **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-present).
  
@@ -25,6 +25,6 @@ author_profile: true
 &nbsp;
  
  
-# Teaching experience
+# Teaching 
   **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
   This lecture introduced the Equilibrium Displacement Model with a real-world example to illustrate the modeling and calibration process.
