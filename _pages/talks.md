@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Presentations
-**Drought-tolerant Technology: A Mixed Blessing.** Agricultural \& Applied Economics Association (AAEA) Annual Meeting, Austin, USA (2021)
+**Drought-tolerant Technology: A Mixed Blessing.** Agricultural & Applied Economics Association (AAEA) Annual Meeting, Austin, USA (2021)
 [Download the AAEA poster here](http://ziweiye.github.io/files/full_v2.pdf)
 
 **Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** CARD Seminar, Zhejiang University, Hangzhou, China (2021)
@@ -14,7 +14,7 @@ author_profile: true
 
 **Crop Yield and Quality: Can Biotechnology Override Adverse Climate Effects?** Brownbag Seminar, Michigan State University, East Lansing, USA (2021)
 
-**Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** Agricultural \& Applied Economics Association (AAEA) Annual Meeting, Kansas City, USA (2020)
+**Environmental and Economic Concerns Surrounding Restrictions on Glyphosate Use in Corn.** Agricultural & Applied Economics Association (AAEA) Annual Meeting, Kansas City, USA (2020)
 
 **Should Glyphosate be Taxed? Herbicide Substitution and Spill-over Effects in US Corn Production.** Graduate Research Symposium, Michigan State University, East Lansing, USA (2020)
 
