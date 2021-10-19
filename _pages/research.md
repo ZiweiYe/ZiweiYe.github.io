@@ -6,9 +6,7 @@ author_profile: true
 ---
 # Job Market Paper
 ## Will tests lead to more informed antibiotics use? An application in veterinarian diagnostic decisions.
-Draft coming soon.
-### Abstract
-TBD.
+Draft and Abstract coming soon.
 
 # Working paper
 **Economics of the Veterinary Feed Directive**. **Yanan Jia**, Hongli Feng, and David A. Hennessy.
