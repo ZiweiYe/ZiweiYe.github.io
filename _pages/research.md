@@ -5,7 +5,7 @@ permalink: /research/
 author_profile: true
 ---
 # Job Market Paper
-## Will Tests Lead to More Informed Antibiotics Use? An Application in Veterinarian Diagnostic Decisions.
+**Will Tests Lead to More Informed Antibiotics Use? An Application in Veterinarian Diagnostic Decisions.**
 Draft and Abstract coming soon.
 
 # Working paper
