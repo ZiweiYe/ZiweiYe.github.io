@@ -3,11 +3,11 @@ main:
   - title: "Research"
     url: /research/ 
     
-  - title: "Conference"
-    url: /conference/ 
+  - title: "Conference Presentations"
+    url: /Conference Presentations/ 
 
   - title: "CV"
     url: /cv/ 
     
-  - title: "Others"
-    url: /others/
+  - title: "Experience"
+    url: /Experience/
