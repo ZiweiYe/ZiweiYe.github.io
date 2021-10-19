@@ -28,3 +28,9 @@ author_profile: true
 # Teaching 
   **Applied Microeconomics I** (AFRE900A), *Guest Lecturer* (2021)     
   This lecture introduced the Equilibrium Displacement Model with a real-world example to illustrate the modeling and calibration process.
+
+&nbsp;
+ 
+ 
+# Referee service 
+  Food Policy
