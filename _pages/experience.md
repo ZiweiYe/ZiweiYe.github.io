@@ -9,7 +9,7 @@ author_profile: true
    **Michigan State University**, Ph.D. candidate, dual major in *Economics* and *Agricultural,Food, and Resource Economics* (2017-2022 expected).    
    **Zhejiang University**, B.S., *Agricultural Economics and Management* (2013-2017).      
      &nbsp;&nbsp;-exchange program: University of Groningen, the Netherlands      
-     &nbsp;&nbsp;-short-term program: Purdue University, Unites States       
+     &nbsp;&nbsp;-short-term program: Purdue University, United States       
      &nbsp;&nbsp;-short-term program: University of Hong Kong, China       
      &nbsp;&nbsp;-short-term program: The Hong Kong Polytechnic University, China      
 
