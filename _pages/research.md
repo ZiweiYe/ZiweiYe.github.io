@@ -7,7 +7,6 @@ author_profile: true
 # Job Market Paper
 **The Game of Corn Rootworm Control in the Presence of Areawide Suppression and Resistance Dynamics**  
 Draft Coming soon.
-
 &nbsp;
 
 **Abstract**
