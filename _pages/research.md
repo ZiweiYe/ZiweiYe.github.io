@@ -5,8 +5,8 @@ permalink: /research/
 author_profile: true
 ---
 # Job Market Paper
-**The Game of Corn Rootworm Control in the Presence of Areawide Suppression and Resistance Dynamics**
-Draft Coming soon.   
+**The Game of Corn Rootworm Control in the Presence of Areawide Suppression and Resistance Dynamics**  
+Draft Coming soon.
 &nbsp;
 **Abstract**
 The corn rootworm is a common corn pest that costs the US economy an estimated one billion dollars per year. To reduce rootworm damage, corn growers plant genetically engineered hybrids that produce rootworm-active Bacillus thuringiensis (Bt) toxins. We provide the first empirical evidence of areawide suppression effect from rootworm Bt maize, using a unique and representative panel on corn root damage and Bt corn planting from 2004 to 2016. This is followed by a synthesis of game theory and biological modeling that formalizes the inconsistency between voluntary and group-optimal in the presence of two countervailing externalities: free-riding incentives arising from area suppression, and Bt-resistance build-up. The theoretical analysis and numerical simulation results show that voluntary planting may or may not exceed the group-optimal level in the short term, depending on the pest population's intrinsic growth rate and resistance level. The policy implications for sustainable pest management are discussed.
