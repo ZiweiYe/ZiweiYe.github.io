@@ -17,5 +17,5 @@ Prior to enrolling at MSU, I received a BA degree in Economics and a MS degree i
 
 Fields of expertise 
 ======
-Agricultural Production and Policy, Environmental Economics, Biological Economics, Behavioral Economics    
+Agricultural Production and Policy, Environmental Economics, Health Economics, Biological Economics, Behavioral Economics    
 *Topics of interest: Biological resistance, production decisions under uncertainty, information learning*
