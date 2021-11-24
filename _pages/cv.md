@@ -11,5 +11,5 @@ redirect_from:
 
 <embed src="/files/cv_211020.pdf" type="application/pdf" />
 
-Download a PDF copy of my CV [here](/files/cv_211117.pdf)
+Download a PDF copy of my CV [here](/files/cv_211123.pdf)
 
