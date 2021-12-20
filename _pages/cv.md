@@ -9,7 +9,7 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/cv_211020.pdf" type="application/pdf" />
+<embed src="/files/cv_econ_noref.pdf" type="application/pdf" />
 
-Download a PDF copy of my CV [here](/files/cv_211123.pdf)
+Download a PDF copy of my CV [here](/files/cv_econ_noref.pdf)
 
