@@ -9,8 +9,8 @@ redirect_from:
 
 {% include base_path %}
 
-<embed src="/files/cv_github.pdf" type="application/pdf" />
+<embed src="/files/220331_cv_econ.pdf" type="application/pdf" />
 
-Download a PDF copy of my CV [here](/files/cv_github.pdf)
+Download a PDF copy of my CV [here](/files/220331_cv_econ.pdf)
 
 
