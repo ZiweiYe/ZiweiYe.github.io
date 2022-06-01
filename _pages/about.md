@@ -20,4 +20,4 @@ Environmental Economics, Policy Analysis
 
 News!
 ======
-I am on the job market and will be attending 2022 ASSA meetings!
+I will be joining the School of Agricultural Economics and Rural Development at Renmin University of China as an Assistant Professor in Fall 2022.
