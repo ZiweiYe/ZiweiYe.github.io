@@ -20,4 +20,4 @@ Environmental Economics, Policy Analysis
 
 News!
 ======
-I will be joining the School of Agricultural Economics and Rural Development at Renmin University of China as an Assistant Professor in Fall 2022.
+In Fall 2022, I will be joining the School of Agricultural Economics and Rural Development at Renmin University of China in Beijing, as an Assistant Professor.
