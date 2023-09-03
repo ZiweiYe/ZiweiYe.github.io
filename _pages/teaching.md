@@ -5,8 +5,9 @@ permalink: /teaching/
 author_profile: true
 ---
 
-## Econometrics at Renmin University of China
+## Econometrics (undergraduate) at Renmin University of China
 ### Fall 2023
+- RA: Falin Sun & Peibin Hou
 - Syllabus here
 - Slides here 
 
