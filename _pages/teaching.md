@@ -14,5 +14,6 @@ author_profile: true
 #### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
 - stata command sheet (from online sources) [here](/files/SataSheets.pdf)
+- stata sample do-file [here](/files/sample.do)
 
 
