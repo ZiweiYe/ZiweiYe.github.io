@@ -9,6 +9,10 @@ author_profile: true
 ### Fall 2023
 - RAs: Falin Sun & Peibin Hou
 - Syllabus [here](/files/syllabus_econometrics_23fall.pdf)
-- Slides here 
+- Slides:
+- L1 [here](/files/L1.pdf)
+- Supplements
+- textbook errata list (from online sources) [here](/files/ErrataList.pdf)
+- Stata command sheet (from online sources) [here](/files/SataSheets.pdf)
 
 
