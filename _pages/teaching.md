@@ -10,9 +10,9 @@ author_profile: true
 - RAs: Falin Sun & Peibin Hou
 - Syllabus [here](/files/syllabus_econometrics_23fall.pdf)
 - Slides:
-- L1 [here](/files/L1.pdf)
-- Supplements
-- textbook errata list (from online sources) [here](/files/ErrataList.pdf)
-- Stata command sheet (from online sources) [here](/files/SataSheets.pdf)
+  L1 [here](/files/L1.pdf)
+- Supplementary materials
+  textbook errata list (from online sources) [here](/files/ErrataList.pdf)
+  stata command sheet (from online sources) [here](/files/SataSheets.pdf)
 
 
