@@ -16,6 +16,6 @@ I received a Bachelor of Science degree in Agricultural Economics and Management
 Fields of expertise 
 ======
 Environmental Economics, Policy Analysis    
-*Topics of interest: Crop biotechnology, Climate change, Sustainability*
+*Topics of interest: Crop biotechnology, Food Safety and Security, Climate change, Sustainability*
 
 
