@@ -13,9 +13,9 @@ author_profile: true
 
 
 # Work 
+  **Renmin University of China**, School of Agricultural Economics and Rural Development. *Assistant professor* (2022-now).
   **World Bank**, Development Research Group. *Consultant* (2020-2021).      
   **Michigan State University**, Department of Agricultural, Food, and Resource Economics. *Research assistant* (2017-2022).
-  **Renmin University of China**, School of Agricultural Economics and Rural Development. *Assistant professor* (2022-now).
 
  
  
