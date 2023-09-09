@@ -6,7 +6,7 @@ author_profile: true
 ---
 
 # Education
-   **Michigan State University**, Ph.D. candidate, dual major in *Economics* and *Agricultural,Food, and Resource Economics* (2017-2022 expected).    
+   **Michigan State University**, Ph.D., dual major in *Economics* and *Agricultural,Food, and Resource Economics* (2017-2022).    
    **Zhejiang University**, B.S., *Agricultural Economics and Management* (2013-2017).   
    - Short-term program at University of Groningen and Purdue University
 
