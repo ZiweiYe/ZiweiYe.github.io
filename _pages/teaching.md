@@ -12,8 +12,9 @@ author_profile: true
 
 ### Slides:
 - L1 [here](/files/L1.pdf)
-- L2 [here](/files/L2.pdf)
-  
+- L2 (updated) [here](/files/L2_updated.pdf)
+- L3 [here](/files/L3.pdf)
+ 
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
 - stata command sheet (from online sources) [here](/files/StataSheets.pdf)
