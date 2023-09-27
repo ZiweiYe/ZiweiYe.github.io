@@ -13,7 +13,8 @@ author_profile: true
 ### Slides:
 - L1 [here](/files/L1.pdf)
 - L2 (updated) [here](/files/L2_updated.pdf)
-- L3 [here](/files/L3.pdf)
+- L3 (updated) [here](/files/L3_updated.pdf)
+- L4 [here](/files/L4.pdf)
  
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
