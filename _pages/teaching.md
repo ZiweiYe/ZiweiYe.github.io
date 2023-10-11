@@ -15,10 +15,12 @@ author_profile: true
 - L2 (updated) [here](/files/L2_updated.pdf)
 - L3 (updated) [here](/files/L3_updated.pdf)
 - L4 [here](/files/L4.pdf)
+- L4(updated [here](/files/L4_updated.pdf)
  
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
 - stata command sheet (from online sources) [here](/files/StataSheets.pdf)
 - stata sample do-file [here](/files/sample.do)
+- proof [here](/files/Proof.pdf)
 
 
