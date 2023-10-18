@@ -16,6 +16,9 @@ author_profile: true
 - L3 (updated) [here](/files/L3_updated.pdf)
 - L4 [here](/files/L4.pdf)
 - L4(updated [here](/files/L4_updated.pdf)
+- L5(updated [here](/files/L5.pdf)
+- L6(updated [here](/files/L6.pdf)
+
  
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
