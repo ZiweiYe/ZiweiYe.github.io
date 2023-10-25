@@ -15,9 +15,11 @@ author_profile: true
 - L2 (updated) [here](/files/L2_updated.pdf)
 - L3 (updated) [here](/files/L3_updated.pdf)
 - L4 [here](/files/L4.pdf)
-- L4(updated [here](/files/L4_updated.pdf)
-- L5(updated [here](/files/L5.pdf)
-- L6(updated [here](/files/L6.pdf)
+- L4(updated) [here](/files/L4_updated.pdf)
+- L5(updated) [here](/files/L5.pdf)
+- L6(updated) [here](/files/L6.pdf)
+- L7 [here](/files/L7.pdf)
+- L8 [here](/files/L8.pdf)
 
  
 ### Supplementary materials
