@@ -1,15 +1,13 @@
----
+![image](https://github.com/ziweiye/ziweiye.github.io/assets/74694510/c86ecc7f-877a-4a88-8b3d-dc56a140d95f)---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
 
-## Econometrics (undergraduate) at Renmin University of China
+# Econometrics at Undergraduate level
 ### Fall 2023 (RAs: Falin Sun & Peibin Hou)
-
 ### Syllabus [here](/files/syllabus_econometrics_23fall.pdf)
-
 ### Slides:
 - L1 [here](/files/L1.pdf)
 - L2 (updated) [here](/files/L2_updated.pdf)
@@ -27,5 +25,11 @@ author_profile: true
 - stata command sheet (from online sources) [here](/files/StataSheets.pdf)
 - stata sample do-file [here](/files/sample.do)
 - proof [here](/files/Proof.pdf)
+
+
+# Economic Valuation of Environmental and Natural Resources at Graduate level
+### Fall 2023
+### Syllabus [here](/files/syllabus_valuation_23fall.pdf)
+
 
 
