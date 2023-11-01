@@ -1,9 +1,10 @@
-![image](https://github.com/ziweiye/ziweiye.github.io/assets/74694510/c86ecc7f-877a-4a88-8b3d-dc56a140d95f)---
+---
 layout: archive
 title: "Teaching"
 permalink: /teaching/
 author_profile: true
 ---
+
 
 ## Econometrics at Undergraduate level
 ### Fall 2023 (RAs: Falin Sun & Peibin Hou)
