@@ -5,7 +5,7 @@ permalink: /teaching/
 author_profile: true
 ---
 
-# Econometrics at Undergraduate level
+## Econometrics at Undergraduate level
 ### Fall 2023 (RAs: Falin Sun & Peibin Hou)
 ### Syllabus [here](/files/syllabus_econometrics_23fall.pdf)
 ### Slides:
@@ -17,7 +17,7 @@ author_profile: true
 - L5(updated) [here](/files/L5.pdf)
 - L6(updated) [here](/files/L6.pdf)
 - L7 [here](/files/L7.pdf)
-- L8 [here](/files/L8.pdf)
+- L8(updated [here](/files/L8_updated.pdf)
 
  
 ### Supplementary materials
@@ -27,7 +27,7 @@ author_profile: true
 - proof [here](/files/Proof.pdf)
 
 
-# Economic Valuation of Environmental and Natural Resources at Graduate level
+## Economic Valuation of Environmental and Natural Resources at Graduate level
 ### Fall 2023
 ### Syllabus [here](/files/syllabus_valuation_23fall.pdf)
 
