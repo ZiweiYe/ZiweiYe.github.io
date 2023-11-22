@@ -21,7 +21,7 @@ author_profile: true
 - L8(updated) [here](/files/L8_updated.pdf)
 - L9(updated)[here](/files/L9.pdf)
 - L10[here](/files/L10.pdf)
-
+- L11[here](/files/L11.pdf)
  
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
