@@ -22,7 +22,8 @@ author_profile: true
 - L9(updated)[here](/files/L9.pdf)
 - L10[here](/files/L10.pdf)
 - L11[here](/files/L11.pdf)
- 
+- L12[here](/files/L12.pdf)
+
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
 - stata command sheet (from online sources) [here](/files/StataSheets.pdf)
