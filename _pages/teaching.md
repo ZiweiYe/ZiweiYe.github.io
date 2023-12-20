@@ -27,6 +27,7 @@ author_profile: true
 - L14[here](/files/L14.pdf)
 - L15[here](/files/L15.pdf)
 - L16[here](/files/L16.pdf)
+- L17[here](/files/L17.pdf)
 
 ### Supplementary materials
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
