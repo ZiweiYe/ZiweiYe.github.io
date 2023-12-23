@@ -33,6 +33,9 @@ author_profile: true
 - textbook errata list (from online sources) [here](/files/ErrataList.pdf)
 - stata command sheet (from online sources) [here](/files/StataSheets.pdf)
 - stata sample do-file [here](/files/sample.do)
+- stata sample do-file (panel) [here](/files/panel.do)
+- stata sample do-file (2sls) [here](/files/2sls.do)
+- stata sample do-file (simultaneity) [here](/files/simultaneity.do)
 - proof [here](/files/Proof.pdf)
 
 
